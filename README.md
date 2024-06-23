@@ -1,7 +1,7 @@
 # Olá, eu sou Eric Vinicius! 👋
 
 ## 🚀 Sobre mim
-Eu sou estudante na curso de Sistmas da Informação ...
+Eu sou estudante na curso de Sistemas da Informação , Atualmente no 3º Semestre  ...
 
 
 ## Outras seções comuns em perfis do GitHub
