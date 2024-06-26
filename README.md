@@ -4,7 +4,7 @@
 Eu sou estudante na curso de Sistemas da Informação , Atualmente no 3º Semestre  ...
 
 
-## Outras seções comuns em perfis do GitHub
+## Outras seções
 👩‍💻 Trabalho atualmente como AUXILIAR DE SUPORTE OPERACIONAL N1
 
 🧠 Estou aprendendo PYTHON AI PARA DESENVOLVIMENTO BACK - END.
