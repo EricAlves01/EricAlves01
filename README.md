@@ -18,4 +18,4 @@ Eu sou estudante na curso de Sistemas da Informação , Atualmente no 3º Semest
 
 
 ## 🛠 BUSCANDO APRENDER:
-PYTHON, HTML, GIT E GITHUB , CSS...
+|* PYTHON| *HTML | * GIT E GITHUB | * CSS|
