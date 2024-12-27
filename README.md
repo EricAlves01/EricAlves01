@@ -2,11 +2,11 @@
 <hr>
 
 ## 🚀 Sobre mim
-tenho 20 anos , Eu sou estudante na curso de Sistemas da Informação (Atualmente no 3º Semestre ..)
+tenho 21 anos , Eu sou estudante na curso de Sistemas da Informação (Atualmente no 4º Semestre ..)
 ## Outras seções
 👩‍💻 Trabalho atualmente como AUXILIAR DE SUPORTE OPERACIONAL N1 ,
 
-🧠 Estou aprendendo PYTHON AI PARA DESENVOLVIMENTO BACK - END.
+🧠 Estou aprendendo HTML , CSS E JS PARA FRONT - END .
 
 🤔 Procuro  AJUDA , vagas de estágios , DICAS E TUTORIAIS QUE ME AJUDEM EVOLUIR E MELHORAR CADA VEZ MAIS ..
 
