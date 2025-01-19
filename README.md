@@ -8,7 +8,7 @@ tenho 21 anos , Eu sou estudante na curso de Sistemas da Informação (Atualment
 
 🧠 Estou aprendendo HTML , CSS E JS PARA FRONT - END .
 
-🤔 Procuro  AJUDA , vagas de estágios , DICAS E TUTORIAIS QUE ME AJUDEM EVOLUIR E MELHORAR CADA VEZ MAIS ..
+🤔 Procuro  AJUDA , BOOTCAMPS ,vagas de estágios , DICAS E TUTORIAIS QUE ME AJUDEM EVOLUIR E MELHORAR CADA VEZ MAIS ..
 
 <div>
  <a href = "https://github.com/EricAlves01">
