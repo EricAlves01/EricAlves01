@@ -45,6 +45,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin:ericalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/eric-vinicius-alves-de-araujo-15571a20b/)](linkedin.com/in/eric-vinicius-alves-de-araujo-15571a20b/)
+[![Linkedin](Linkedin:ericalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/eric-vinicius-alves-de-araujo-15571a20b/)](linkedin.com/in/eric-vinicius-alves-de-araujo-15571a20b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericalves17319@gmail.com)](mailto:ericalves17319@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/EricAlves01)
