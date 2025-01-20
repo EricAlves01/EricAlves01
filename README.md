@@ -37,7 +37,7 @@
 <br/>
 
 <a href="https://github.com/EricAlves01" title="Perfil do Eric">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricAlves01&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
