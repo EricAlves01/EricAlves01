@@ -2,6 +2,7 @@
 
 ## Sobre mim
 
+- 🤯 Iniciante em Desenvolvimento .
 - 🤔 Explorando e Buscando conhecimento na aréa de front - end.
 - 🎓 Estudando Sistemas da Informação (4º semestre - noturno) na UFR.
 - 💼 Trabalhando como estágiario de suporte na Info plus informática.
