@@ -2,10 +2,11 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Explorando e Buscando conhecimento na aréa de front - end.
+- 🎓 Estudando Sistemas da Informação (4º semestre - noturno) na UFR.
+- 💼 Trabalhando como estágiario de suporte na Info plus informática.
+- 🌱 Aprendendo mais sobre HTML5 , CSS , JS, REACT E OUTRAS BIBLIOTECAS E GERENCIADORES NPM.
+- 💻 Atualmente estou participando do programa ONE, realizado pela Alura em parceria com a Oracle.
 
 ## Minhas Skills
 
@@ -20,10 +21,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
