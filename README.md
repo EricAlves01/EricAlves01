@@ -7,7 +7,7 @@
 - 🎓 Estudando Sistemas da Informação (4º semestre - noturno) na UFR.
 - 💼 Trabalhando como estágiario de suporte na Info plus informática.
 - 🌱 Aprendendo mais sobre HTML5 , CSS , JS, REACT E OUTRAS BIBLIOTECAS E GERENCIADORES NPM.
-- 💻 Atualmente estou participando do programa ONE, realizado pela Alura em parceria com a Oracle.
+- 💻 Atualmente estou participando do programa [ONE](https://www.oracle.com/br/education/oracle-next-education/?source=:ow:o:h:mt:::RC_WWMK210810P00072:LA22_GEN_OC_CO30_M4015_SO037YO01_DO0871_AO01_RO001&intcmp=:ow:o:h:mt:::RC_WWMK210810P00072:LA22_GEN_OC_CO30_M4015_SO037YO01_DO0871_AO01_RO001), realizado pela [Alura](https://www.alura.com.br/?srsltid=AfmBOoov0vdatJTlDC2Ns_dKGDKxfYJ3cwVg1lVgVrWzONJjL_pWBL0w) em parceria com a [Oracle](https://www.oracle.com/br/).
 
 ## Minhas Skills
 
