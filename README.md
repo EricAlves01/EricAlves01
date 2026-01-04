@@ -1,22 +1,23 @@
+
+
+https://img.shields.io/badge/:badgeContent
 ![](https://komarev.com/ghpvc/?username=EricAlves01&color=006bed)
 
 ## Sobre mim
 
 - 🤯 Iniciante em Desenvolvimento .
-- 🤔 Explorando e Buscando conhecimento na aréa de front - end.
-- 🎓 Estudando Sistemas da Informação (4º semestre - noturno) na UFR.
-- 💼 Trabalhando como estágiario de suporte na Info plus informática.
-- 🌱 Aprendendo mais sobre HTML5 , CSS , JS, REACT E OUTRAS BIBLIOTECAS E GERENCIADORES NPM.
-- 💻 Atualmente estou participando do programa [ONE](https://www.oracle.com/br/education/oracle-next-education/?source=:ow:o:h:mt:::RC_WWMK210810P00072:LA22_GEN_OC_CO30_M4015_SO037YO01_DO0871_AO01_RO001&intcmp=:ow:o:h:mt:::RC_WWMK210810P00072:LA22_GEN_OC_CO30_M4015_SO037YO01_DO0871_AO01_RO001), realizado pela [Alura](https://www.alura.com.br/?srsltid=AfmBOoov0vdatJTlDC2Ns_dKGDKxfYJ3cwVg1lVgVrWzONJjL_pWBL0w) em parceria com a [Oracle](https://www.oracle.com/br/).
+- 🤔 Explorando e Buscando conhecimento na aréa de Ciência de Dados e Inteligência Artificial.
+- 🎓 Estudando Sistemas da Informação (6º semestre - noturno) na UFR.
+- 💼 Em Busca de Novas Oportunidades.
+- 🌱 Aprendendo mais sobre Ciência de Dados,Python , IA.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
+![SQL](https://img.shields.io/badge/SQL-Blue?logo=SQL)
 
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -24,7 +25,7 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code]( https://img.shields.io/VisualStudio/v/VisualStudio.svg?logo=VisualStudio)
 
 
 
