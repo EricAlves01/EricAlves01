@@ -1,8 +1,3 @@
-
-
-https://img.shields.io/badge/:badgeContent
-![](https://komarev.com/ghpvc/?username=EricAlves01&color=006bed)
-
 ## Sobre mim
 
 - 🤯 Iniciante em Desenvolvimento .
@@ -17,23 +12,16 @@ https://img.shields.io/badge/:badgeContent
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
-![SQL](https://img.shields.io/badge/SQL-Blue?logo=SQL)
-
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=Postgresql)
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code]( https://img.shields.io/VisualStudio/v/VisualStudio.svg?logo=VisualStudio)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?flat&logo=visualstudiocode&logoColor=fff&style=plastic)
 
-
-
-<br/>
-
-<a href="https://github.com/EricAlves01" title="Perfil do Eric">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricAlves01&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
