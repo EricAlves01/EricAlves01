@@ -2,7 +2,7 @@
 
 - 🤯 Iniciante em Ciência de dados .
 - 🤔 Explorando e Buscando conhecimento na aréa de Ciência de Dados e Inteligência Artificial.
-- 🎓 Estudando Sistemas da Informação (6º semestre - noturno) na UFR.
+- 🎓 Estudando Sistemas da Informação (7º semestre - noturno) na UFR.
 - 💼 Em Busca de Novas Oportunidades.
 - 🌱 Aprendendo mais sobre Ciência de Dados,Python , IA.
 
