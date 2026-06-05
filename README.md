@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🤯 Iniciante em Ciência de dados .
+- 🤯 Iniciante em Programação.
 - 🤔 Explorando e Buscando conhecimento na aréa de Ciência de Dados e Inteligência Artificial.
 - 🎓 Estudando Sistemas da Informação (7º semestre - noturno) na UFR e Tec em Desenvolvimento de Sistemas(Cursando - IFSULDEMINAS).
 - 💼 Em Busca de Novas Oportunidades.
